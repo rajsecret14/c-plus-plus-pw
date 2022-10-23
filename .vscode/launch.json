@@ -1,5 +1,6 @@
 {
     "configurations": [
+        
         {
             "name": "C/C++: g++.exe build and debug active file",
             "type": "cppdbg",
@@ -7,7 +8,7 @@
             "program": "${fileDirname}\\${fileBasenameNoExtension}.exe",
             "args": [],
             "stopAtEntry": false,
-            "cwd": "${fileDirname}",
+            "cwd": "C:/MinGW/bin",
             "environment": [],
             "externalConsole": false,
             "MIMode": "gdb",
