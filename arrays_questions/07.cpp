@@ -14,6 +14,8 @@ int main (){
             break;
         }
     }
+     cout<<"ERROR... Ur no. "<<n<<" doesn't matched";
+
    
 
     return 0;
